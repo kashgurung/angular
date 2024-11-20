@@ -61,5 +61,5 @@ baseline.json
 aio/node_modules
 aio/out-tsc
 
-# Igonre Yarn
+# Ignore Yarn
 .yarn
